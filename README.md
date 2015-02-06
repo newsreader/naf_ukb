@@ -2,6 +2,6 @@
 
 Little script to add sense information to NAF input, thus producing new NAF.
 
-https://github.com/ixa-ehu/ixa-pipe-ned
+https://github.com/asoroa/naf_ukb
 
-Developed by the IXA NLP Group of the University of the Basque Country.
+Developed by the IXA NLP Group of the University of the Basque Country.g
